@@ -29,7 +29,7 @@
           <mxGeometry height="30" width="120" x="620" y="270" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DEAN" vertex="1">
-          <mxGeometry height="30" width="120" x="605" y="360" as="geometry" />
+          <mxGeometry height="30" width="120" x="700" y="360" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="NON-RESIDENTIAL" vertex="1">
           <mxGeometry height="30" width="120" x="140" y="240" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry height="30" width="120" x="-60" y="145" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DORMITORY" vertex="1">
-          <mxGeometry height="30" width="120" x="600" y="480" as="geometry" />
+          <mxGeometry height="30" width="120" x="620" y="480" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-11" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" value="TRANSCRIPT" vertex="1">
           <mxGeometry height="40" width="100" x="60" y="490" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry height="40" width="100" x="250" y="490" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-13" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" value="ROOM" vertex="1">
-          <mxGeometry height="40" width="100" x="620" y="570" as="geometry" />
+          <mxGeometry height="40" width="100" x="760" y="570" as="geometry" />
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="Password" vertex="1">
           <mxGeometry height="30" width="100" x="425" y="-80" as="geometry" />
@@ -255,6 +255,21 @@
         </mxCell>
         <mxCell id="jYhAu3TFCsiLR8u8vdir-81" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="EnrolsIn" vertex="1">
           <mxGeometry height="40" width="100" x="113" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jYhAu3TFCsiLR8u8vdir-82" edge="1" parent="1" source="jYhAu3TFCsiLR8u8vdir-5" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jYhAu3TFCsiLR8u8vdir-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="370" as="sourcePoint" />
+            <mxPoint x="680" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jYhAu3TFCsiLR8u8vdir-83" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+          <mxGeometry height="40" width="100" x="630" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="jYhAu3TFCsiLR8u8vdir-84" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="jYhAu3TFCsiLR8u8vdir-85" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+          <mxGeometry height="30" width="100" x="770" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
