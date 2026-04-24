@@ -1114,7 +1114,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-xVuuR3NkfDlXnpSX4AW" name="Level 0 Diagram">
-    <mxGraphModel dx="774" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="1631" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1274,7 +1274,7 @@
           <mxGeometry height="60" width="120" x="395" y="380" as="geometry" />
         </mxCell>
         <mxCell id="7Thaf-ENPSYQXKHZprq_-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;font-claude-response-body break-words whitespace-normal leading-[1.7]&quot;&gt;&lt;strong&gt;Data out flow&lt;/strong&gt;&lt;/p&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal leading-[1.7]&quot;&gt;&lt;strong&gt;To Billing System:&lt;/strong&gt;&lt;/p&gt;&lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3&quot;&gt;&lt;li class=&quot;whitespace-normal break-words pl-2&quot;&gt;Billing information (after enrollment)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="90" width="180" x="390" y="450" as="geometry" />
+          <mxGeometry height="90" width="263" x="359" y="433" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
