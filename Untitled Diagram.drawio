@@ -376,7 +376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y_W5FkxRTXPjf2BEA20j" name="Use Case Diagram - Western Pacific University">
-    <mxGraphModel dx="1688" dy="708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1407" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
             <mxPoint x="380" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hj8A2sFMhFHQG6QS1eW-42" edge="1" parent="1" source="-hj8A2sFMhFHQG6QS1eW-2" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="-hj8A2sFMhFHQG6QS1eW-42" edge="1" parent="1" source="-hj8A2sFMhFHQG6QS1eW-2" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="-hj8A2sFMhFHQG6QS1eW-36" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points" />
             <mxPoint x="140" y="480" as="sourcePoint" />
@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Enhanced ER Diagram" id="mnfiuytRHcwCDfqkrHyJ">
-    <mxGraphModel dx="3383" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2570" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1230,7 +1230,7 @@
         <mxCell id="5lEJmgRhzVrAsxfOLG6t-14" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Contains" vertex="1">
           <mxGeometry height="50.5" width="100" x="930" y="773" as="geometry" />
         </mxCell>
-        <mxCell id="5lEJmgRhzVrAsxfOLG6t-19" edge="1" parent="1" source="m5WgYCd_KDQUhxZVxW2U-24" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xoXA9yHTCR9ENPY6ZOdy-49" value="">
+        <mxCell id="5lEJmgRhzVrAsxfOLG6t-19" edge="1" parent="1" source="m5WgYCd_KDQUhxZVxW2U-24" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="xoXA9yHTCR9ENPY6ZOdy-49" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1105" y="737" as="sourcePoint" />
             <mxPoint x="1105" y="778" as="targetPoint" />
